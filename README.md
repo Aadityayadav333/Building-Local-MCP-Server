@@ -204,8 +204,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 
-Project Link: [https://github.com/yourusername/mcp-docs-server] (https://github.com/Aadityayadav333/Building-Local-MCP-Server)
+Project Link: (https://github.com/Aadityayadav333/Building-Local-MCP-Server)
 
 ---
+
+## 🙏 Credits 
+
+This project was inspired by and uses code from:
+
+- **[Hassan's MCP Tutorial]** - [](https://github.com/AIwithhassan) - Base MCP server implementation
+- Original tutorial: [https://youtu.be/U0boR8cqYqQ?si=E-VFgq1_U-eE8rEF]
+
+Special thanks to Hassan for the excellent MCP server tutorial that served as the foundation for this project.
 
 **⭐ If you find this project useful, please consider giving it a star!**
