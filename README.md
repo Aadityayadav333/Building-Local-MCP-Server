@@ -212,7 +212,7 @@ Project Link: (https://github.com/Aadityayadav333/Building-Local-MCP-Server)
 
 This project was inspired by and uses code from:
 
-- **[Hassan's MCP Tutorial]** - [](https://github.com/AIwithhassan) - Base MCP server implementation
+- **[Hassan's MCP Tutorial]** - [@AIwithhassan](https://github.com/AIwithhassan) - Base MCP server implementation
 - Original tutorial: [https://youtu.be/U0boR8cqYqQ?si=E-VFgq1_U-eE8rEF]
 
 Special thanks to Hassan for the excellent MCP server tutorial that served as the foundation for this project.
