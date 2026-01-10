@@ -35,7 +35,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Aadityayadav333/Building-Local-MCP-Server]
+   git clone https://github.com/Aadityayadav333/Building-Local-MCP-Server
    cd mcp-docs-server
    ```
 
@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 
-Project Link: [https://github.com/yourusername/mcp-docs-server] [https://github.com/Aadityayadav333/Building-Local-MCP-Server]
+Project Link: [https://github.com/yourusername/mcp-docs-server] (https://github.com/Aadityayadav333/Building-Local-MCP-Server)
 
 ---
 
